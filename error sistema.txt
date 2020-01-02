@@ -1,0 +1,9 @@
+1: Error en el template del controlador en la parte del datatable
+Detalle: El error proviene del buscador de varchar, este campo no deje la ultima opcion en nada.
+
+2: Configuracion del template module, el cual debe de crear la lista de componente que existe en la caprtera del modulo,
+Detalle: crear linea para no estar agregando a mano cada componete el modal que corresponde.
+
+3: Crear el template para modificar el rauter de acceso al componente.
+Detalle: este template no esta creado ademas necesita toda la logica para poder generar el componente y la url que se
+va diregir el cliente.
